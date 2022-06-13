@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/drawable/roundstyle.xml" value="0.211" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/activity_ana_sayfa.xml" value="0.22" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/activity_bildir.xml" value="0.18" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/activity_bilgilerim.xml" value="0.22" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/activity_diger.xml" value="0.18" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/activity_ekle_ders_konu_sec.xml" value="0.22" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/activity_ekledigim.xml" value="0.18" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/activity_kayit.xml" value="0.25" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/activity_kayitlar.xml" value="0.21" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/activity_soru_ekle.xml" value="0.22" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/activity_test_ekrani.xml" value="0.22" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/activity_test_konu_sec.xml" value="0.18" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/app_bar_ana_sayfam.xml" value="0.15095628415300547" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/content_ana_sayfam.xml" value="0.15095628415300547" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/fragment_gallery.xml" value="0.15095628415300547" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/fragment_home.xml" value="0.15095628415300547" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/fragment_slideshow.xml" value="0.15095628415300547" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/listlayouttemplate.xml" value="0.21" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/listtemplate.xml" value="0.2" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/listtemplate2.xml" value="0.153125" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/listtemplate3.xml" value="0.11543715846994536" />
+        <entry key="..\:/Users/onurc/AndroidStudioProjects/Hocam/app/src/main/res/layout/nav_header_ana_sayfam.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

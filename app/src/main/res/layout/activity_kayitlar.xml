@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundyeni2"
+    tools:context=".Ekledigim">
+
+    <TextView
+        android:id="@+id/TV_Header3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:fontFamily="@font/bangers"
+        android:padding="10dp"
+        android:textColor="#E91E63"
+        android:textSize="24sp" />
+
+
+    <ListView
+        android:id="@+id/LV_Country3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/TV_Header3"
+
+        android:divider="@color/black"></ListView>
+
+    <Button
+        android:id="@+id/btn_Get3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+        android:layout_below="@+id/LV_Country3"
+
+        android:background="#E91E63"
+        android:text="Listele"
+        android:textColor="#FFFFFF">
+
+    </Button>
+
+    <EditText
+        android:id="@+id/snoedit"
+        android:layout_width="100dp"
+        android:layout_height="55dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="243dp"
+        android:layout_marginBottom="673dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="No." />
+
+    <Button
+        android:id="@+id/silbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="676dp"
+        android:background="#E91E63"
+        android:fontFamily="@font/bangers"
+        android:text="SİL"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/cvpgorBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="133dp"
+        android:layout_marginBottom="676dp"
+        android:background="#E91E63"
+        android:fontFamily="@font/bangers"
+        android:text="cevabi gör"
+        android:textColor="#FFFFFF" />
+
+</RelativeLayout>
