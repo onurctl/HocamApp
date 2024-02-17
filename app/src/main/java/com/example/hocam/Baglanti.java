@@ -14,10 +14,10 @@ public class Baglanti {
     @SuppressLint("New Api")
     public Connection con() {
         Connection conn = null;
-        String ip = "192.168.2.243";
-        String db = "hocamdb";
-        String un = "hocamYazilim", port="1433";
-        String password = "56789";
+        String ip = "192.168..";
+        String db = "";
+        String un = "", port="";
+        String password = "";
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
         StrictMode.setThreadPolicy(policy);
 
